@@ -1,4 +1,4 @@
-Live Demo: https://chatroom-luankcf5.netlify.app/login
+Live Demo: https://chatroom-luankcf5.netlify.app
 
 # Getting Started with Create React App
 
